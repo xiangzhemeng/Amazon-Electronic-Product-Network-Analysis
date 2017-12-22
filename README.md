@@ -1,2 +1,4 @@
-# amazon_electronic_products_network_analysis
-Amazon Electronic Products Network Analysis
+# Amazon Electronic Products Network Analysis
+
+#### EPFL EE-558 NTDS Project
+
