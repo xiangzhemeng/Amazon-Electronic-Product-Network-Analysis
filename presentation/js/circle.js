@@ -19,7 +19,7 @@ var svg1 = d3.select("#circle").append("svg")
 var link = svg1.append("g").selectAll(".link"),
     node = svg1.append("g").selectAll(".node");
 
-d3.json("../json/amazon.json", function(classes) {
+d3.json("amazon.json", function(classes) {
   //if (error) throw error;
 
   var root = packageHierarchy(classes)
