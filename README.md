@@ -12,7 +12,7 @@ Amazon is reshaping and recording our life as the biggest online retailer and as
 
 We generate our network from three products: **Macbook**, **Surface** and **ThinkPad**, which we call "core" here. Starting from the core, we add the also_bought prodcuts into our network, which we call the "first layer" of our network. Then, we add the also_bought products of the first layer. In this project, we only add two layers of products. And, intuitively, each core is going to form a group of nodes. To visualize the network, we utilized **D3.js**, a javascript library for producing dynamic, interactive data visualizations in web browsers.
 
-<center><img src="/proposal/strcture.png" width="50%" height="50%"></center>
+<img src="https://user-images.githubusercontent.com/25604193/35408980-38fe397e-0211-11e8-8893-930a8031a0eb.png" width="25%" height="25%">
 
 After generating our network, we use **spectral graph theory**, **transductive learning** and **surpervised classification** to do clustering and comparison.
 
