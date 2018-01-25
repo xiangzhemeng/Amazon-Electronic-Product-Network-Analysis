@@ -10,7 +10,9 @@
 
 Amazon is reshaping and recording our life as the biggest online retailer and as an invisible social network. We are connected with each other because we bought or reviewed the same product. Thanks to our behaviors, like purchasing, reviewing or viewing, the products in Amazon are also connected together. In this project, we mainly focus on electronic products.
 
-We generate our network from three products: **Macbook**, **Surface** and **ThinkPad**, which we call "core" here. Starting from the core, we add the also_bought prodcuts into our network, which we call the "first layer" of our network. Then, we add the also_bought products of the first layer. In this project, we only add two layers of products. And, intuitively, each core is going to form a group of nodes. To visualize the network, we utilized **D3.js**, a javascript library for producing dynamic, interactive data visualizations in web browsers. 
+We generate our network from three products: **Macbook**, **Surface** and **ThinkPad**, which we call "core" here. Starting from the core, we add the also_bought prodcuts into our network, which we call the "first layer" of our network. Then, we add the also_bought products of the first layer. In this project, we only add two layers of products. And, intuitively, each core is going to form a group of nodes. To visualize the network, we utilized **D3.js**, a javascript library for producing dynamic, interactive data visualizations in web browsers.
+
+<center><img src="proposal/strcture.png" width="50%" height="50%"></center>
 
 After generating our network, we use **spectral graph theory**, **transductive learning** and **surpervised classification** to do clustering and comparison.
 
