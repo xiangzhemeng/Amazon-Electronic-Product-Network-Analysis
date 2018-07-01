@@ -4,7 +4,7 @@
 
 **`Team Members`:** Tao Sun, Xiangzhe Meng, Xingce Bao, Süha Kagan Köse
 
-**Network Graph page:** [Network Graph](https://xiangzhemeng.github.io/ntds/index.html)
+**Network Graph page:** [Network Graph](https://xiangzhemeng.github.io/project/network-science-project/index.html)
 
 ### Abstract
 
